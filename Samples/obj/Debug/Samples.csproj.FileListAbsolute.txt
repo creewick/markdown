@@ -1,0 +1,8 @@
+D:\Desktop\Shpora\clean-code\Samples\bin\Debug\Samples.dll
+D:\Desktop\Shpora\clean-code\Samples\bin\Debug\Samples.pdb
+D:\Desktop\Shpora\clean-code\Samples\bin\Debug\System.Collections.Immutable.dll
+D:\Desktop\Shpora\clean-code\Samples\bin\Debug\System.Collections.Immutable.xml
+D:\Desktop\Shpora\clean-code\Samples\obj\Debug\Samples.csprojResolveAssemblyReference.cache
+D:\Desktop\Shpora\clean-code\Samples\obj\Debug\Samples.csproj.CoreCompileInputs.cache
+D:\Desktop\Shpora\clean-code\Samples\obj\Debug\Samples.dll
+D:\Desktop\Shpora\clean-code\Samples\obj\Debug\Samples.pdb

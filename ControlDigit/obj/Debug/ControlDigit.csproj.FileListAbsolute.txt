@@ -1,0 +1,8 @@
+D:\Desktop\Shpora\clean-code\ControlDigit\bin\Debug\ControlDigit.dll
+D:\Desktop\Shpora\clean-code\ControlDigit\bin\Debug\ControlDigit.pdb
+D:\Desktop\Shpora\clean-code\ControlDigit\bin\Debug\nunit.framework.dll
+D:\Desktop\Shpora\clean-code\ControlDigit\bin\Debug\nunit.framework.xml
+D:\Desktop\Shpora\clean-code\ControlDigit\obj\Debug\ControlDigit.csprojResolveAssemblyReference.cache
+D:\Desktop\Shpora\clean-code\ControlDigit\obj\Debug\ControlDigit.csproj.CoreCompileInputs.cache
+D:\Desktop\Shpora\clean-code\ControlDigit\obj\Debug\ControlDigit.dll
+D:\Desktop\Shpora\clean-code\ControlDigit\obj\Debug\ControlDigit.pdb

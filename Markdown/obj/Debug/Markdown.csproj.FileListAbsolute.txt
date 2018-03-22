@@ -1,0 +1,30 @@
+D:\Desktop\Shpora\clean-code\Markdown\bin\Debug\Markdown.exe.config
+D:\Desktop\Shpora\clean-code\Markdown\bin\Debug\Markdown.exe
+D:\Desktop\Shpora\clean-code\Markdown\bin\Debug\Markdown.pdb
+D:\Desktop\Shpora\clean-code\Markdown\bin\Debug\nunit.framework.dll
+D:\Desktop\Shpora\clean-code\Markdown\bin\Debug\nunit.framework.xml
+D:\Desktop\Shpora\clean-code\Markdown\obj\Debug\Markdown.csprojResolveAssemblyReference.cache
+D:\Desktop\Shpora\clean-code\Markdown\obj\Debug\Markdown.csproj.CoreCompileInputs.cache
+D:\Desktop\Shpora\clean-code\Markdown\obj\Debug\Markdown.exe
+D:\Desktop\Shpora\clean-code\Markdown\obj\Debug\Markdown.pdb
+D:\Desktop\Shpora\clean-code\Markdown\bin\Debug\FluentAssertions.Core.dll
+D:\Desktop\Shpora\clean-code\Markdown\bin\Debug\FluentAssertions.dll
+D:\Desktop\Shpora\clean-code\Markdown\bin\Debug\FluentAssertions.pdb
+D:\Desktop\Shpora\clean-code\Markdown\bin\Debug\FluentAssertions.xml
+D:\Desktop\Shpora\clean-code\Markdown\bin\Debug\FluentAssertions.Core.pdb
+D:\Desktop\Shpora\clean-code\Markdown\bin\Debug\FluentAssertions.Core.xml
+D:\Programming Projects\C# Projects\Shpora\clean-code\Markdown\bin\Debug\Markdown.exe.config
+D:\Programming Projects\C# Projects\Shpora\clean-code\Markdown\bin\Debug\Markdown.exe
+D:\Programming Projects\C# Projects\Shpora\clean-code\Markdown\bin\Debug\Markdown.pdb
+D:\Programming Projects\C# Projects\Shpora\clean-code\Markdown\bin\Debug\FluentAssertions.Core.dll
+D:\Programming Projects\C# Projects\Shpora\clean-code\Markdown\bin\Debug\FluentAssertions.dll
+D:\Programming Projects\C# Projects\Shpora\clean-code\Markdown\bin\Debug\nunit.framework.dll
+D:\Programming Projects\C# Projects\Shpora\clean-code\Markdown\bin\Debug\FluentAssertions.pdb
+D:\Programming Projects\C# Projects\Shpora\clean-code\Markdown\bin\Debug\FluentAssertions.xml
+D:\Programming Projects\C# Projects\Shpora\clean-code\Markdown\bin\Debug\FluentAssertions.Core.pdb
+D:\Programming Projects\C# Projects\Shpora\clean-code\Markdown\bin\Debug\FluentAssertions.Core.xml
+D:\Programming Projects\C# Projects\Shpora\clean-code\Markdown\bin\Debug\nunit.framework.xml
+D:\Programming Projects\C# Projects\Shpora\clean-code\Markdown\obj\Debug\Markdown.csprojResolveAssemblyReference.cache
+D:\Programming Projects\C# Projects\Shpora\clean-code\Markdown\obj\Debug\Markdown.csproj.CoreCompileInputs.cache
+D:\Programming Projects\C# Projects\Shpora\clean-code\Markdown\obj\Debug\Markdown.exe
+D:\Programming Projects\C# Projects\Shpora\clean-code\Markdown\obj\Debug\Markdown.pdb
