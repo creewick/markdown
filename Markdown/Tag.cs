@@ -23,16 +23,14 @@ namespace Markdown
         
         public bool CorrectCloseTag(string text)
         {
-            return //text.IsNextSpace(this) &&
-                   !text.IsPrevSpace(this) &&
+            return !text.IsPrevSpace(this) &&
                    !text.IsEscaped(this) &&
                    !text.IsDigitNear(this);
         }
         
         public bool CorrectOpenTag(string text)
         {
-            return //text.IsPrevSpace(this) &&
-                   !text.IsNextSpace(this) &&
+            return !text.IsNextSpace(this) &&
                    !text.IsEscaped(this) &&
                    !text.IsDigitNear(this);
         }
